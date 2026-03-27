@@ -55,3 +55,12 @@ ImplementedOvervoltage Protection (OVP)🚧 In Progress
 Undervoltage Protection (UVP)🚧 In Progress
 Efficiency Analysis🔲 Planned
 PCB Design🔲 Planned
+
+Tools Used
+
+LTSpice — Circuit simulation
+Custom transformer design calculations
+
+
+Author
+Rithik Mohanan
